@@ -31,12 +31,8 @@
     "spawn_pvp": true
   },
   "login": {
-    "motd": [
-      "Welcome to the server!"
-    ],
-    "starting_items": [
-      "minecraft:apple 16 0"
-    ]
+    "motd": [],
+    "starting_items": []
   },
   "permissions_admin": {
     "allow_creative_interact_secure": true,
