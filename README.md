@@ -20,7 +20,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/SpecialMobs.cfg - I:ghost=0 (Spider)
 * config/SpecialMobs.cfg - I:witch=0 (Spider)
 * config/SpecialMobs.cfg - B_special_witches=false (Witch)
-* config/holoinventory.cfg - S:bannedTiles ---------------------
+* config/holoinventory.cfg - S:bannedTiles <com.rwtema.extrautils.tileentity.TileEntityFilingCabinet>
 
 # Mod Removals
 
@@ -32,8 +32,3 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 
 * config/findit.cfg
 * config/InfernalMobs.cfg
-
-# TODO
-
-* Upload splash.properties
-* Upload InGameInfo.xml
