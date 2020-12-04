@@ -32,3 +32,4 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 
 * config/findit.cfg
 * config/InfernalMobs.cfg
+* config/Betterloadingscreen
