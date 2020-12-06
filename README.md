@@ -22,11 +22,24 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/SpecialMobs.cfg - B_special_witches=false (Witch)
 * config/holoinventory.cfg - S:bannedTiles <com.rwtema.extrautils.tileentity.TileEntityFilingCabinet>
 
+# Mod Additions
+
+* Clean View
+* FTBLib
+* FTBUtilities
+* Morpheus
+* No Nausea
+* TipTheScales
+
 # Mod Removals
 
+* Aroma Backup
+* Aroma Core
+* Better Loading Screen
 * Find It
 * Infernal Mobs
 * Loot Games
+* OptiFine
 
 # Config Removal
 
