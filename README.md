@@ -21,6 +21,10 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/SpecialMobs.cfg - I:witch=0 (Spider)
 * config/SpecialMobs.cfg - B_special_witches=false (Witch)
 * config/holoinventory.cfg - S:bannedTiles <com.rwtema.extrautils.tileentity.TileEntityFilingCabinet>
+* config/Morpheus.cfg - S:OnMorningText=
+* config/Morpheus.cfg - S:OnSleepText=
+* config/Morpheus.cfg - S:OnWakeText=
+* I:SleeperPerc=1
 
 # Client Mod Additions
 
