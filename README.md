@@ -67,3 +67,6 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * Yoyos Integration
 * Pedastal/Item Stand Mod
 * Fancy Sign Mod
+* Mo Bends
+* Doggy Talents
+* Inventory Pets
