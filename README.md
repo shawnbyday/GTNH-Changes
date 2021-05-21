@@ -27,6 +27,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/Morpheus.cfg - I:SleeperPerc=1
 * config/adventurebackpack.cfg - B:"Enable Overlay"=false
 * config/GraviSuite.cfg - I:hudPosition=4
+* config/OpenBlocks.cfg - B:spawnSkeletons=false
 
 # Client Mod Additions
 
