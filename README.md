@@ -33,6 +33,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * Clean View
 * FTBLib
 * FTBUtilities
+* Mo Bends
 * Morpheus
 * No Nausea
 * TipTheScales
@@ -41,7 +42,6 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 
 * Aroma Backup
 * Aroma Core
-* Better Loading Screen
 * Find It
 * Infernal Mobs
 * Loot Games
@@ -61,7 +61,6 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 
 * config/findit.cfg
 * config/InfernalMobs.cfg
-* config/Betterloadingscreen
 
 # Future Changes
 
@@ -69,6 +68,5 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * Yoyos Integration
 * Pedastal/Item Stand Mod
 * Fancy Sign Mod
-* Mo Bends
 * Doggy Talents
 * Inventory Pets
