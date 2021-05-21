@@ -24,7 +24,9 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/Morpheus.cfg - S:OnMorningText=
 * config/Morpheus.cfg - S:OnSleepText=
 * config/Morpheus.cfg - S:OnWakeText=
-* I:SleeperPerc=1
+* config/Morpheus.cfg - I:SleeperPerc=1
+* config/adventurebackpack.cfg - B:"Enable Overlay"=false
+* config/GraviSuite.cfg - I:hudPosition=4
 
 # Client Mod Additions
 
