@@ -34,7 +34,6 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * Clean View
 * FTBLib
 * FTBUtilities
-* Mo Bends
 * Morpheus
 * No Nausea
 * TipTheScales
