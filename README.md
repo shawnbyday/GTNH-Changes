@@ -50,6 +50,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 # Server Mod Removals
 
 * BetterLoadingScreen
+* CraftPresence
 * CustomMainMenu
 * DefaultWorldGenerator
 * MouseTweaks
