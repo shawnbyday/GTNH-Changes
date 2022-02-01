@@ -62,12 +62,3 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 
 * config/findit.cfg
 * config/InfernalMobs.cfg
-
-# Future Changes
-
-* Botania Integration
-* Yoyos Integration
-* Pedastal/Item Stand Mod
-* Fancy Sign Mod
-* Doggy Talents
-* Inventory Pets
