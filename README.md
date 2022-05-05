@@ -28,6 +28,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/adventurebackpack.cfg - B:"Enable Overlay"=false
 * config/GraviSuite.cfg - I:hudPosition=4
 * config/OpenBlocks.cfg - B:spawnSkeletons=false
+* config/defaultserverlist.cfg - remove unwanted servers
 
 # Client Mod Additions
 
@@ -52,6 +53,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * BetterLoadingScreen
 * CraftPresence
 * CustomMainMenu
+* defaultserverlist
 * DefaultWorldGenerator
 * MouseTweaks
 * ReAuth
