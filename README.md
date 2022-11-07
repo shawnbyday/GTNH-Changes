@@ -1,11 +1,19 @@
 # GTNH-Changes
+
 This is a simple collection of my changes to GTNH modpack. These changes are simply to be able to enjoy the modpack more.
 
 # Configuration Changes
 
-* config/GregTech/GregTech.cfg - B:EnablePollution=false
 * config/endercore/endercore.cfg - B:betterAchievements=false
 * config/IguanaTinkerTweaks/main.cfg - B:easyToolRepair=true
+* config/holoinventory.cfg - S:bannedTiles <com.rwtema.extrautils.tileentity.TileEntityFilingCabinet>
+* config/adventurebackpack.cfg - B:"Enable Overlay"=false
+* config/GraviSuite.cfg - I:hudPosition=4
+* config/defaultserverlist.cfg - remove unwanted servers
+
+# Configuration Changes NOT Currently in Use
+
+* config/GregTech/GregTech.cfg - B:EnablePollution=false
 * config/roguelike_dungeons/roguelike.cfg - spawnFrequency=24
 * config/SpecialMobs.cfg - B:_allow_vanilla=true (Blaze)
 * config/SpecialMobs.cfg - B:_special_blazes=false (Blaze)
@@ -20,15 +28,11 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/SpecialMobs.cfg - I:ghost=0 (Spider)
 * config/SpecialMobs.cfg - I:witch=0 (Spider)
 * config/SpecialMobs.cfg - B_special_witches=false (Witch)
-* config/holoinventory.cfg - S:bannedTiles <com.rwtema.extrautils.tileentity.TileEntityFilingCabinet>
 * config/Morpheus.cfg - S:OnMorningText=
 * config/Morpheus.cfg - S:OnSleepText=
 * config/Morpheus.cfg - S:OnWakeText=
 * config/Morpheus.cfg - I:SleeperPerc=1
-* config/adventurebackpack.cfg - B:"Enable Overlay"=false
-* config/GraviSuite.cfg - I:hudPosition=4
 * config/OpenBlocks.cfg - B:spawnSkeletons=false
-* config/defaultserverlist.cfg - remove unwanted servers
 
 # Client Mod Additions
 
@@ -39,7 +43,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * No Nausea
 * TipTheScales
 
-# Client Mod Removals
+# Client Mod Removals NOT Currently in Use
 
 * Aroma Backup
 * Aroma Core
@@ -48,19 +52,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * Loot Games
 * OptiFine
 
-# Server Mod Removals
-
-* BetterLoadingScreen
-* CraftPresence
-* CustomMainMenu
-* defaultserverlist
-* DefaultWorldGenerator
-* MouseTweaks
-* ReAuth
-* ResourceLoader
-* TipTheScales
-
-# Config Removal
+# Config Removals NOT Currently in Use
 
 * config/findit.cfg
 * config/InfernalMobs.cfg
