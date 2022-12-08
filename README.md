@@ -10,7 +10,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/adventurebackpack.cfg - B:"Enable Overlay"=false
 * config/GraviSuite.cfg - I:hudPosition=4
 
-# Configuration Changes NOT Currently in Use
+# Configuration Changes Currently in Use
 
 * config/GregTech/GregTech.cfg - B:EnablePollution=false
 
