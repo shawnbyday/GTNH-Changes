@@ -9,9 +9,6 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/holoinventory.cfg - S:bannedTiles <com.rwtema.extrautils.tileentity.TileEntityFilingCabinet>
 * config/adventurebackpack.cfg - B:"Enable Overlay"=false
 * config/GraviSuite.cfg - I:hudPosition=4
-
-# Configuration Changes Currently in Use
-
 * config/GregTech/GregTech.cfg - B:EnablePollution=false
 
 # Client Mod Additions
@@ -22,3 +19,8 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * Morpheus
 * No Nausea
 * TipTheScales
+
+# Server Mod Additions
+
+* CosmeticArmorReworked
+* Morpheus
