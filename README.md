@@ -14,6 +14,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 # Client Mod Additions
 
 * Clean View
+* CosmeticArmorReworked
 * FTBLib
 * FTBUtilities
 * Morpheus
