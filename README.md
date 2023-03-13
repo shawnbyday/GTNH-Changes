@@ -7,7 +7,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/endercore/endercore.cfg - B:betterAchievements=false
 * config/IguanaTinkerTweaks/main.cfg - B:easyToolRepair=true
 * config/holoinventory.cfg - S:bannedTiles <com.rwtema.extrautils.tileentity.TileEntityFilingCabinet>
-* config/nonausea.cfg - I:Mode=0
+* config/NoNausea.cfg - I:Mode=0
 * config/adventurebackpack.cfg - B:"Enable Overlay"=false
 * config/GraviSuite.cfg - I:hudPosition=4
 * config/GregTech/GregTech.cfg - B:EnablePollution=false
