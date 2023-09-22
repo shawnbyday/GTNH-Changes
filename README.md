@@ -11,6 +11,8 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/adventurebackpack.cfg - B:"Enable Overlay"=false
 * config/GraviSuite.cfg - I:hudPosition=4
 * config/GregTech/GregTech.cfg - B:EnablePollution=false
+* config/defaultserverlist.json - "useURL": false
+* config/defaultworldgenerator.cfg - B:"Lock World Generator"=false
 
 # Client Mod Additions
 
