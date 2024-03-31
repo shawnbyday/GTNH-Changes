@@ -13,8 +13,6 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/GregTech/GregTech.cfg - B:EnablePollution=false
 * config/defaultserverlist.json - "useURL": false
 * config/defaultworldgenerator.cfg - B:"Lock World Generator"=false
-* config/fastcraft.ini - enableFontRendererTweaks = false
-* config/betterquesting.cfg - S:"Text Width Correction"=1.2
 * config/Thaumcraft.cfg - B:wand_dial_bottom=false
 
 # Client Mod Additions
@@ -23,7 +21,6 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * Morpheus
 * No Nausea
 * ServerUtilities
-* Smooth Font
 * TipTheScales
 
 # Server Mod Additions
