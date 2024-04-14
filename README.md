@@ -21,6 +21,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * Morpheus
 * No Nausea
 * ServerUtilities
+* Sound Reloader
 * TipTheScales
 
 # Server Mod Additions
