@@ -7,10 +7,9 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/endercore/endercore.cfg - B:betterAchievements=false
 * config/IguanaTinkerTweaks/main.cfg - B:easyToolRepair=true
 * config/holoinventory.cfg - S:bannedTiles <com.rwtema.extrautils.tileentity.TileEntityFilingCabinet>
-* config/NoNausea.cfg - I:Mode=0
 * config/adventurebackpack.cfg - B:"Enable Overlay"=false
 * config/GraviSuite.cfg - I:hudPosition=4
-* config/GregTech/GregTech.cfg - B:EnablePollution=false
+* config/GregTech/Pollution.cfg - B:EnablePollution=false
 * config/defaultserverlist.json - "useURL": false
 * config/defaultworldgenerator.cfg - B:"Lock World Generator"=false
 * config/Thaumcraft.cfg - B:wand_dial_bottom=false
@@ -18,13 +17,5 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 # Client Mod Additions
 
 * Clean View
-* Morpheus
-* No Nausea
-* ServerUtilities
-* Sound Reloader
-* TipTheScales
 
 # Server Mod Additions
-
-* ServerUtilities
-* Morpheus
