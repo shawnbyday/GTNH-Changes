@@ -13,6 +13,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/defaultserverlist.json - "useURL": false
 * config/defaultworldgenerator.cfg - B:"Lock World Generator"=false
 * config/Thaumcraft.cfg - B:wand_dial_bottom=false
+* config/gendustry/overrides/tuning.cfg - cfg Mutatron -> DegradeChanceNatural = 0, cfg Mutatron -> DeathChanceArtificial = 0, cfg MutatronAdv -> DegradeChanceNatural = 0, cfg MutatronAdv -> DeathChanceArtificial = 0, cfg Imprinter -> DeathChanceNatural = 0, cfg Imprinter -> DeathChanceArtificial = 0
 
 # Client Mod Additions
 
