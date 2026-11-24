@@ -14,6 +14,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/lootgames/games/game_of_light.cfg - I:weight=0
 * config/gendustry/overrides/tuning.cfg - cfg Mutatron -> DegradeChanceNatural = 0, cfg Mutatron -> DeathChanceArtificial = 0, cfg MutatronAdv -> DegradeChanceNatural = 0, cfg MutatronAdv -> DeathChanceArtificial = 0, cfg Imprinter -> DeathChanceNatural = 0, cfg Imprinter -> DeathChanceArtificial = 0
 * serverutilities/server/ranks.txt - [player, vip, admin] -> serverutilities.claims.max_chunks: 5000, serverutilties.chunkloader.max_chunks: 5000, serverutilities.homes.max: 1000, serverutilities.homes.warmup: 0s, serverutilities.homes.cooldown: 0s, serverutilities.homes.cross_dim: true
+* serverutilities/server/serverutilities.cfg - B:enable_backups=false
 * config/AppliedEnergistics2/AppliedEnergistics2.cfg - S:CRAFTING_SORT_BY=AMOUNT
 * config/AppliedEnergistics2/AppliedEnergistics2.cfg - S:SORT_DIRECTION=DESCENDING
 * config/AppliedEnergistics2/AppliedEnergistics2.cfg - I:craftAmtButton2=64
