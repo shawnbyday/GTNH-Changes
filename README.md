@@ -45,6 +45,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * Shadow UI (https://github.com/Ranzuu/Shadow-UI)
 * GTNH Outlined Ores (https://github.com/Ranzuu/GTNH-OutlinedOres)
 * Twist Space Quest Line (https://github.com/AdityaVG13/Twist-Stuff)
+* GTNH World Edit (https://github.com/GTNewHorizons/worldedit-gtnh)
 
 # Server Mod Additions
 
@@ -60,6 +61,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * 123 Tech (https://github.com/CallmeSHaobe/123Technology)
 * GTNL (https://github.com/GTNotLeisure/GT-Not-Leisure)
 * Twist Space Quest Line (https://github.com/AdityaVG13/Twist-Stuff)
+* GTNH World Edit (https://github.com/GTNewHorizons/worldedit-gtnh)
 
 # Client Mod Removals
 
