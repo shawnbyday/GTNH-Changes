@@ -72,9 +72,10 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 
 # Server Mod Removals
 
-* Default Server List (Don't forget the CFG file too).
+* Default Server List CFG
 * Journey Map Fairplay
 
 # Game Rule Changes
 * /gamerule doFireTick false
 * /gamerule keepInventory true
+* /gamerule playerSleepingPercentage 1
