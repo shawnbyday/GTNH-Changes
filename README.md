@@ -31,16 +31,46 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 # Client Mod Additions
 
 * Clean View
+* Journey Map Unlimited
+* Spark (https://github.com/GTNewHorizons/spark)
+* Shared Prospecting (https://github.com/GTNewHorizons/SharedProspecting)
+* AE2 Web Integration (https://github.com/kuba6000/AE2-Web-Integration)
+* Lag Goggles (https://github.com/FalsePattern/LagGogglesLegacy)
+* Simple Storage (https://github.com/LITW-Refined/EZStorage)
+* Programmable Hatches (https://github.com/reobf/Programmable-Hatches-Mod)
+* DEConfig-Integration (https://github.com/Drathonix/DEConfig-Integration)
+* Twist Space (https://github.com/Nxer/Twist-Space-Technology-Mod)
+* 123 Tech (https://github.com/CallmeSHaobe/123Technology)
+* GTNL (https://github.com/GTNotLeisure/GT-Not-Leisure)
+* Shadow UI (https://github.com/Ranzuu/Shadow-UI)
+* GTNH Outlined Ores (https://github.com/Ranzuu/GTNH-OutlinedOres)
+* Twist Space Quest Line (https://github.com/AdityaVG13/Twist-Stuff)
 
 # Server Mod Additions
 
+* Journey Map Unlimited
+* Spark (https://github.com/GTNewHorizons/spark)
+* Shared Prospecting (https://github.com/GTNewHorizons/SharedProspecting)
+* AE2 Web Integration (https://github.com/kuba6000/AE2-Web-Integration)
+* Lag Goggles (https://github.com/FalsePattern/LagGogglesLegacy)
+* Simple Storage (https://github.com/LITW-Refined/EZStorage)
+* Programmable Hatches (https://github.com/reobf/Programmable-Hatches-Mod)
+* DEConfig-Integration (https://github.com/Drathonix/DEConfig-Integration)
+* Twist Space (https://github.com/Nxer/Twist-Space-Technology-Mod)
+* 123 Tech (https://github.com/CallmeSHaobe/123Technology)
+* GTNL (https://github.com/GTNotLeisure/GT-Not-Leisure)
+* Twist Space Quest Line (https://github.com/AdityaVG13/Twist-Stuff)
+
 # Client Mod Removals
 
-* mods/defaultserverlist.jar
-* config/defaultserverlist.cfg
-* mods/JourneyMap
+* Default Server List (Don't forget the CFG file too).
+* Journey Map Fairplay
 
 # Server Mod Removals
 
-* mods/defaultserverlist.jar
-* config/defaultserverlist.cfg
+* Default Server List (Don't forget the CFG file too).
+* Journey Map Fairplay
+
+# Game Rule Changes
+* /gamerule doFireTick false
+* /gamerule keepInventory true
