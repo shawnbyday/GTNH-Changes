@@ -21,3 +21,13 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * Clean View
 
 # Server Mod Additions
+
+# Client Mod Removals
+
+* mods/defaultserverlist.jar
+* config/defaultserverlist.cfg
+
+# Server Mod Removals
+
+* mods/defaultserverlist.jar
+* config/defaultserverlist.cfg
