@@ -26,6 +26,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/GregTech/WorldGeneration.cfg - B:generateUndergroundGravelGen=false
 * config/enderio/EnderIO.cfg - I:travelAnchorCooldown=10
 * config/enderio/EnderIO.cfg - I:travelAnchorMaxDistance=2048
+* config/findit.cfg - S:SearchRadius=64
 
 # Client Mod Additions
 
