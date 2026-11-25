@@ -29,6 +29,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * config/enderio/EnderIO.cfg - I:travelAnchorMaxDistance=2048
 * config/findit.cfg - S:SearchRadius=64
 * config/GTNotLeisure/recipe.cfg - B:enableShowDelRecipeTitle=false
+* config/angermod.cfg - B:enabled=false
 
 # Client Mod Additions
 
