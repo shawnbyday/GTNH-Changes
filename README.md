@@ -49,6 +49,7 @@ This is a simple collection of my changes to GTNH modpack. These changes are sim
 * GTNH Outlined Ores (https://github.com/Ranzuu/GTNH-OutlinedOres)
 * Twist Space Quest Line (https://github.com/AdityaVG13/Twist-Stuff)
 * GTNH World Edit (https://github.com/GTNewHorizons/worldedit-gtnh)
+* GTNH Planner (https://gtnhplanner.com)
 
 # Server Mod Additions
 
